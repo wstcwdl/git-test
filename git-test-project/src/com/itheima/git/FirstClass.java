@@ -10,5 +10,6 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println(333);
         System.out.println(44222);
+        System.out.println("hello git project");
     }
 }
